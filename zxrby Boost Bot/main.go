@@ -19,7 +19,7 @@ func main() {
 	time.Sleep(time.Second * 1)
 	Utils.LogInfo("Logging in.", "", "")
 
-	title.SetTitle("Boostility | .gg/boostility | dev_demon1zed & demon1zed.zip")
+	title.SetTitle("Boost Bot V3| .gg/boostsociety")
 	Utils.ClearScreen()
 	Utils.PrintASCII()
 
